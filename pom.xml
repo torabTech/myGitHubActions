@@ -59,6 +59,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>spring-boot-image</finalName>
     </build>
 
 </project>
